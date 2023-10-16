@@ -16,11 +16,13 @@
 <br>
 <p>
 Design and build a cash register that can:
-- Add and remove items
-- Counts the amount of coins and bills in the drawer
-- Sum the total amount of money in the drawer
-- Determine whether it is possible to create a specific cash amount from the current items in the drawer
-- Computes the change required from a transaction and removes it from the drawer if possible.
+<ul>
+  <li>Add and remove items;</li>
+  <li>Count the amount of coins and bills in the drawer;</li>
+  <li>Sum the total amount of money in the drawer;</li>
+  <li>Determine whether it is possible to create a specific cash amount from the current items in the drawer;</li>
+  <li>Compute the change required from a transaction and removes it from the drawer if possible.</li>
+</ul>
 </p>
 <div align="center">
   <img src="./img/gradient.svg" alt="A gradient separator used to distinguish sections of the page" draggable="false"
